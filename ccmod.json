@@ -1,0 +1,15 @@
+{
+    "id": "ns-ui",
+    "version": "1.0.0",
+    "title": "Switch buttons",
+    "description": "This mod replaces the Xbox buttons with Switch ones edited by me.",
+    "repository": "https://github.com/CrescentCroma/CCSwitch-UI",
+    "tags": ["icons", "ui", "hud", "textures"],
+    "authors": ["Crescent Croma"],
+    "icons": {
+        "24": "icon/icon.png"
+    },
+    "dependencies": {
+        "crosscode": ">=1.4.0"
+    }
+}
